@@ -1,0 +1,35 @@
+{
+    "context": "client",
+  "identifier": "com.pa.lilly.mod.maps",
+  "display_name": "lilly mod maps",
+  "description": "lilly mod maps",
+  "author": "lilly",
+  "version": "1.1.1",
+  "build": "116400",
+  "date": "2022-11-05",
+  "signature": " ",
+  "forum": "https://github.com/lilly1987/Planetary-Annihilation-Lilly-Mod/",
+  "priority": 100,
+    "category": [
+        "maps"
+    ],
+    "load_planet": [
+        "coui://ui/mods/lilly/maps.js"
+    ],
+    "searchable": [
+
+        "map",
+        "pack",
+        "maps",
+        "systems",
+        "system",
+        "planet", 
+        "team"
+    ],
+    "priority": 100,
+    "enabled": true,
+    "dependencies": [
+        "com.pa.conundrum.cShareSystems",
+        "com.pa.grandhomie.simplebiomes.server"
+]
+}
