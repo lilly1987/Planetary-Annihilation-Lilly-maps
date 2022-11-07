@@ -1,0 +1,3 @@
+cShareSystems.load_pas("Lilly", [
+    "coui://ui/mods/lilly/systems/lilly_erbw.pas",
+]);
