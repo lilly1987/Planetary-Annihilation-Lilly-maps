@@ -34,7 +34,7 @@
                 "symmetricalStarts": true,
                 "numArmies": 2,
                 "landingZonesPerArmy": 5,
-                "landingZoneSize": 50,
+                "landingZoneSize": 500,
                 "heightAdjustments": []
             }
         },
@@ -68,7 +68,7 @@
                 "symmetricalStarts": true,
                 "numArmies": 2,
                 "landingZonesPerArmy": 5,
-                "landingZoneSize": 50,
+                "landingZoneSize": 500,
                 "heightAdjustments": []
             }
         },
@@ -102,7 +102,7 @@
                 "symmetricalStarts": true,
                 "numArmies": 2,
                 "landingZonesPerArmy": 5,
-                "landingZoneSize": 50,
+                "landingZoneSize": 500,
                 "heightAdjustments": []
             }
         },
@@ -136,7 +136,7 @@
                 "symmetricalStarts": true,
                 "numArmies": 2,
                 "landingZonesPerArmy": 5,
-                "landingZoneSize": 50,
+                "landingZoneSize": 500,
                 "heightAdjustments": []
             }
         },
@@ -170,7 +170,7 @@
                 "symmetricalStarts": true,
                 "numArmies": 2,
                 "landingZonesPerArmy": 5,
-                "landingZoneSize": 50,
+                "landingZoneSize": 500,
                 "heightAdjustments": []
             }
         },
@@ -204,7 +204,7 @@
                 "symmetricalStarts": true,
                 "numArmies": 2,
                 "landingZonesPerArmy": 5,
-                "landingZoneSize": 50,
+                "landingZoneSize": 500,
                 "heightAdjustments": []
             }
         },
@@ -238,7 +238,7 @@
                 "symmetricalStarts": true,
                 "numArmies": 2,
                 "landingZonesPerArmy": 5,
-                "landingZoneSize": 50,
+                "landingZoneSize": 500,
                 "heightAdjustments": []
             }
         },
@@ -272,7 +272,7 @@
                 "symmetricalStarts": true,
                 "numArmies": 2,
                 "landingZonesPerArmy": 5,
-                "landingZoneSize": 50,
+                "landingZoneSize": 500,
                 "heightAdjustments": []
             }
         }
