@@ -14,7 +14,7 @@
         "maps"
     ],
     "load_planet": [
-        "coui://ui/mods/lilly/maps.js"
+        "coui://systems/maps.js"
     ],
     "searchable": [
 
