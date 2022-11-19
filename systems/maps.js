@@ -27,4 +27,6 @@ cShareSystems.load_pas("Lilly", [
     "coui://systems/gamma_system 20m.pas",           
     "coui://systems/gamma_system 20-1.pas",           
     "coui://systems/gamma_system 14-4.pas",           
-]);                                                          
+    "coui://systems/gamma_system d1b1.pas",           
+    "coui://systems/gamma_system d1m4.pas",           
+]);
